@@ -1,0 +1,21 @@
+.mayInput {
+
+
+  input {
+    border: 1px solid rgba(47, 36, 36, 0.5);
+    border-radius: 5px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+
+  label {
+    width: 100%;
+    text-align: center;
+    color: #d20000;
+    text-transform: uppercase;
+  }
+}

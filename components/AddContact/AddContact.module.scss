@@ -1,0 +1,42 @@
+.containerAddContact {
+  margin-bottom: 25px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+
+  .containerInputAddContact {
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 20px;
+  }
+
+  input {
+    width: 150px;
+    height: 35px;
+    margin-bottom: 10px;
+    border-radius: unset;
+    background: #f4f4f4;
+    border: none;
+    padding: 15px;
+  }
+
+  label {
+    width: 100%;
+    text-align: center;
+    color: #d20000;
+    text-transform: uppercase;
+  }
+  button{
+    margin-top: 25px;
+    margin-left: 10px;
+  }
+}
+
+
+
+
+
+

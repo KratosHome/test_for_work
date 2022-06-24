@@ -1,0 +1,33 @@
+*,
+a,
+ul,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: calc((90vw - 470px) / (3980 - 470) * (16 - 10) + 14px);
+  text-decoration: none;
+  list-style: none;
+}
+h1,h2{
+  text-align: center;
+  text-transform: uppercase;
+}
+button{
+  width: max-content;
+  height: 20px;
+  background-color: white;
+  border: 1px solid red;
+  border-radius: 3px;
+}
+.appContainer{
+  margin-top: 100px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+button{
+  margin-top: 18px;
+}
+}
