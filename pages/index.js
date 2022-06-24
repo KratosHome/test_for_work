@@ -43,7 +43,7 @@ export default function Home() {
             <AddContact
                 hendelSubmit={hendelSubmit}
                 emodjiText={emodjiText}
-                setEmodji={setEmodji}
+                setEmodji={setEmodji}1
                 name1={name1}
                 setName={setName}
                 telephone1={telephone1}
